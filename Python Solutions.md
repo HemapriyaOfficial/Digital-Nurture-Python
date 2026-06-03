@@ -64,6 +64,7 @@
 <img width="431" height="366" alt="image" src="https://github.com/user-attachments/assets/8570de78-7ecd-4364-a292-e8ffca4078b8" />
 
 # 22. Comment Usage 
+<img width="460" height="389" alt="image" src="https://github.com/user-attachments/assets/1cad22d2-85b9-4c27-ae81-3e0515d7f898" />
 
 
 # 23. Import Standard Module  
