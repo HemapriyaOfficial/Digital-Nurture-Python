@@ -125,14 +125,19 @@
 <img width="544" height="759" alt="image" src="https://github.com/user-attachments/assets/24e8decc-033c-46ef-bb43-5425675d0a3c" />
 
 # 42. Data Analysis Pipeline
+<img width="1433" height="773" alt="image" src="https://github.com/user-attachments/assets/12c8e1be-9f1e-472f-beee-e143cb9111bf" />
 
 # 43. Configuration Manager 
+<img width="697" height="697" alt="image" src="https://github.com/user-attachments/assets/d7623389-528f-46e9-9d82-a3b23a6f16c0" />
 
 # 44. CSV Data Processor
+<img width="1545" height="798" alt="image" src="https://github.com/user-attachments/assets/dd4983cc-c645-406b-bfe4-e9eda92ded86" />
 
 # 45. Expense Tracker
+<img width="707" height="880" alt="image" src="https://github.com/user-attachments/assets/0727e2dc-308c-467d-8e30-8b9412ff24ac" />
 
 # 46. API Response Handler 
+<img width="1310" height="850" alt="image" src="https://github.com/user-attachments/assets/1b06547f-c4ab-4967-b238-67b32fb667d2" />
 
 # 47. Complete Calculator Program
 <img width="507" height="779" alt="image" src="https://github.com/user-attachments/assets/facc321e-3943-4e45-be23-de9802f7adab" />
